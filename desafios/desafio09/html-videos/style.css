@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(14, 13, 13);
+}
+h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.cont2 {
+    display: flex;
+    justify-content: center;
+}
+
+.voltar {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
